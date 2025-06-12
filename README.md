@@ -38,21 +38,7 @@ music-recommender/
 ├── recommenders.py           # Custom recommender classes
 ├── music_recommender.ipynb   # Implementation notebook
 └── README.md                 # Project documentation
-Installation and Setup
-Clone this repository:
 
-bash
-Copy
-Edit
-git clone https://github.com/your-username/music-recommender.git
-cd music-recommender
-Install required Python libraries:
-
-bash
-Copy
-Edit
-pip install pandas numpy
-Ensure the data files triplets_file.csv and song_data.csv are placed in the project directory.
 
 Data Preprocessing
 Load and merge both datasets on song_id.
